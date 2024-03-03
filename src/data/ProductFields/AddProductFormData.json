@@ -1,0 +1,9 @@
+{
+  "shoppingFormData": [
+    {
+      "name": "title",
+      "placeholder": "Add product",
+      "type": "text"
+    }
+  ]
+}
